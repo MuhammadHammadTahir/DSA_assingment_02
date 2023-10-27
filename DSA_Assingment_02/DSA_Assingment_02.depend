@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698164382 source:d:\dsa  projects\dsa_assingment_02\main.cpp
+	<iostream>
+	"List.h"
+
+1698171128 d:\dsa  projects\dsa_assingment_02\include\list.h
+
+1698172113 source:d:\dsa  projects\dsa_assingment_02\src\list.cpp
+	"List.h"
+	"List_impl.cpp"
+	<iostream>
+
+1698164599 d:\dsa  projects\dsa_assingment_02\src\list_impl.cpp
+	<iostream>
+
